@@ -1,0 +1,243 @@
+/* first sextion style css start here..... */
+
+.flexible-container {
+    display: flex;
+    margin-top: 60px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.heading-section-one {
+    margin-left: 28px;
+    margin-right: 80px;
+}
+
+.heading-section-two {
+    margin-right: 40px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.sub-heading-one {
+    background-color: #e35259;
+    width: 8px;
+    border-radius: 10px;
+    margin: 65px 0px 64px 0px;
+}
+
+.sub-heading-two {
+    margin-left: 12px;
+}
+
+.heading-design {
+    margin-top: -40px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: orangered;
+    color: white;
+    font-weight: 900;
+    padding: 15px 52px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.text-design {
+    margin: -30px 0px 40px 0px;
+}
+
+.heading-section-two img {
+    width: 454px;
+    height: 81%;
+    border-radius: 10px;
+}
+
+
+/* first section style css end here..... */
+
+
+/* Mission section style css start here ...... */
+
+h2 {
+    text-align: center;
+}
+
+.font-design {
+    font-size: 35px;
+}
+
+.font-style {
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Serif Pro', serif;
+    font-family: 'Spline Sans', sans-serif;
+}
+
+.mission-sub-container {
+    margin-left: 25px;
+    margin-right: 25px;
+    border-radius: 30px;
+}
+
+.mission-sub-container img {
+    width: 200px;
+}
+
+.card-one {
+    background-color: sandybrown;
+}
+
+.card-two {
+    background-color: rgb(207, 116, 35);
+}
+
+.card-three {
+    background-color: rgb(161, 109, 64);
+}
+
+.mission-text-style {
+    margin-left: 30px;
+    margin-bottom: 45px;
+    margin-right: 19px;
+}
+
+.mission-text-style h2 {
+    text-align: left;
+    font-size: 24px;
+}
+
+
+/* Mission section style css end here ...... */
+
+
+/* Journey of my coding style css start here....... */
+
+#coding-left {
+    margin-left: 30px;
+}
+
+#coding-left img {
+    width: 450px;
+}
+
+#coding-right {
+    margin-left: 45px
+}
+
+.text-margin {
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+
+/* Journey of my coding style css end here....... */
+
+
+/* Journey of my education style css start here....... */
+
+#education-left-side {
+    margin-left: 20px;
+}
+
+#education-right-side {
+    margin-left: 70px;
+}
+
+#education-right-side img {
+    margin-bottom: 45px;
+    margin-top: -30px;
+    width: 540px;
+    border-radius: 15px;
+}
+
+
+/* Journey of my education style css end here....... */
+
+
+/* experience style css start here..... */
+
+.circle {
+    background-color: chocolate;
+    width: 25%;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 159px;
+    border-radius: 50%;
+}
+
+.circle p {
+    margin-top: 61px;
+    margin-left: 116px;
+}
+
+#experience {
+    background-color: antiquewhite;
+    border-radius: 10px;
+    width: 50%;
+    border-left: 10px solid;
+    border-right: 10px solid;
+    border-image: linear-gradient(rgb(63, 27, 23), tomato);
+    border-image-slice: 1;
+    text-align: justify;
+    margin: 0px 10px;
+}
+
+#experience p {
+    text-align: justify;
+    margin-right: 44px;
+    margin-top: 36px;
+    margin-left: 44px;
+}
+
+.social-link {
+    margin-left: 43%;
+}
+
+#github {
+    height: 83px;
+    margin-bottom: 9px;
+}
+
+#linkedln {
+    width: 19%;
+    height: 100px;
+}
+
+
+/* experience style css end here..... */
+
+
+/* footer section style css start here...... */
+
+.footer-section {
+    background-color: black;
+    color: white;
+}
+
+.footer-container {
+    padding: 40px;
+    text-align: center;
+}
+
+.footer-font {
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Moon Dance', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Serif Pro', serif;
+    font-family: 'Spline Sans', sans-serif;
+    font-family: 'The Nautigal', cursive;
+}
+
+
+/* footer section style css start here...... */
